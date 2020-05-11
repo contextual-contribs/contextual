@@ -9,7 +9,7 @@ The core philosophies of this meta-language are:
 - Eliminate "machinery" in code. That is, most (all?) code today is packed with instructions to the parser/compiler, which aren't necessarily useful to the programmer, and often reduce readability. For example, punctuation. 
 - Make the parser smarter. Exploit the intelligence a parser can offer to radically reduce the programmer's effort. 
 - Exploit whitespace. Imply structure with whitespace. 
-- Eliminate the obvious. Depend on contextual and implication. 
+- Eliminate the obvious. Depend on context and implication. 
 - Eliminate redundancy. 
 - Make the most common coding patterns part of the language, so the programmer doesn't have to spell them out every time. 
 
