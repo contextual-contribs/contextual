@@ -1,5 +1,7 @@
 # contextual
-A proposal for a new programming language, or meta-language, designed for radical brevity plus human-readability. 
+What if you could invent a new programming language, designed purely to simplify your life as a programmer, without *any* of the constraints of existing languages? 
+
+This is a proposal for a new programming language, or meta-language, designed for radical brevity plus human-readability. Think CoffeScript or Clojure without all the cruft. 
 
 This project is bold enough to propose coding practice which some people might find scary. The radical goals of this project will not be comfortable for everyone, and we're OK with that. We're not trying to please everyone. We're trying to please programmers who are tired of having to over-explain themselves to the computer. 
 
@@ -13,6 +15,7 @@ The core philosophies of this meta-language are:
 - Eliminate redundancy. 
 - Make the most common coding patterns part of the language, so the programmer doesn't have to spell them out every time. 
 - Enable programmer to customize language-keywords. 
+- Strongly-typed.
 
 (Using the word "parser" to refer to IDE, linters, parsers, transpilers, and compilers. Anything that interprets the code.)
 
