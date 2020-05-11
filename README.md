@@ -17,7 +17,7 @@ The core philosophies of this meta-language are:
 - Enable programmer to customize language-keywords. 
 - Strongly-typed.
 
-[1:] (Using the word "parser" to refer to IDE, linters, parsers, transpilers, and compilers. Anything that interprets the code.)
+[1]: (Using the word "parser" to refer to IDE, linters, parsers, transpilers, and compilers. Anything that interprets the code.)
 
 
 # progress
