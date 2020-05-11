@@ -1,7 +1,8 @@
 # contextual
-A proposal for a new programming language, or meta-language, designed for radical brevity plus human-readability. The radical goals of this project will not be comfortable for everyone, and we're OK with that. We're not trying to please everyone. We're trying to please programmers who are tired of having to over-explain themselves to the computer. 
+A proposal for a new programming language, or meta-language, designed for radical brevity plus human-readability. 
 
-This project is bold enough to propose coding practice which some people might find scary. 
+This project is bold enough to propose coding practice which some people might find scary. The radical goals of this project will not be comfortable for everyone, and we're OK with that. We're not trying to please everyone. We're trying to please programmers who are tired of having to over-explain themselves to the computer. 
+
 
 # philosophy
 The core philosophies of this meta-language are:
