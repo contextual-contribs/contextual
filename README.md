@@ -12,6 +12,7 @@ The core philosophies of this meta-language are:
 - Eliminate the obvious. Depend on context and implication. 
 - Eliminate redundancy. 
 - Make the most common coding patterns part of the language, so the programmer doesn't have to spell them out every time. 
+- Enable programmer to customize language-keywords. 
 
 (Using the word "parser" to refer to IDE, linters, parsers, transpilers, and compilers. Anything that interprets the code.)
 
