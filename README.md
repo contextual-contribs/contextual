@@ -46,5 +46,10 @@ The core philosophies of this meta-language are:
 [1]: (Using the word "parser" to refer to IDE, linters, parsers, transpilers, and compilers. Anything that interprets the code.)
 
 
+# goals
+1. Define the language. Resolve all ambiguities. 
+2. Build a Javascript transpiler. 
+
+
 # progress
 Current phase is **brainstorming phase.** The only activity right now is for the community to dream up better, briefer ways to write code. No work will be done on a parser, transpiler, or compiler at this time. 
