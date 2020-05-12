@@ -21,7 +21,7 @@ function greetByName(sName) {
     };
 ```
 
-**contextual, proposed:** 47 chars
+**contextual, proposed:** 64 chars
 ````
 greetByName'Jack'
 
