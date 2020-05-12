@@ -9,7 +9,10 @@ This project is bold enough to propose coding practice which some people might f
 # example
 Which one do YOU find easier to read? Be honest. 
 
-**Javascript:** 105 chars
+**Javascript**
+
+105 chars
+
 (each indent counts as one char)
 ```
 greetByName('Jack')
@@ -24,7 +27,9 @@ function greetByName(sName) {
     };
 ```
 
-**contextual, proposed:** 36 chars
+**contextual, proposed:** 
+
+36 chars
 ````
 greetByName'Jack'
 
