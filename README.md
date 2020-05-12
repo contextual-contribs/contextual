@@ -21,13 +21,14 @@ function greetByName(sName) {
     };
 ```
 
-**contextual, proposed:** 64 chars
+**contextual, proposed:** 62 chars
 ````
 greetByName'Jack'
 
 greetByName
-    Say 'Hello ' sName
-    Say 'Hi'    
+    ! Say
+        'Hello ' sName
+        'Hi'    
 ````
 The contextual version has strong typing and locally-scoped variables. 
 
