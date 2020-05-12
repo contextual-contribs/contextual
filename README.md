@@ -7,8 +7,7 @@ This project is bold enough to propose coding practice which some people might f
 
 
 # example
-**Javascript**
-155 chars
+**Javascript:** 155 chars
 ```
 greetByName('Jack')
 
@@ -22,7 +21,7 @@ function greetByName(sName) {
     };
 ```
 
-**contextual proposed: 47 chars**
+**contextual, proposed:** 47 chars
 ````
 greetByName'Jack'
 
