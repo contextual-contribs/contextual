@@ -29,7 +29,9 @@ greetByName
     Say 'Hello ' sName
     Say 'Hi'    
 ````
-Note: The contextual version has strong typing and locally-scoped variables. 
+The contextual version has strong typing and locally-scoped variables. 
+
+[Full explanation](https://github.com/contextual-contribs/contextual/wiki/Snip:-Function-With-Conditional)
 
 
 # philosophy
