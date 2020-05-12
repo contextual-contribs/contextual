@@ -48,7 +48,3 @@ The core philosophies of this meta-language are:
 
 # progress
 Current phase is **brainstorming phase.** The only activity right now is for the community to dream up better, briefer ways to write code. No work will be done on a parser, transpiler, or compiler at this time. 
-
-
-# github
-This is my first github project, so i'm exploring best ways to use the tools, including wiki, project, team, etc. Suggestions/tips welcomed!
