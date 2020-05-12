@@ -7,19 +7,25 @@ This project is bold enough to propose coding practice which some people might f
 
 
 # example
-**Javascript: 189 chars**
-````
-let greetByName = (possiblyNullName) => {
-    let optionName = Js.Nullable.toOption(possiblyNullName);
-    switch (optionName) {
-        | None => "Hi"
-        | Some(name) => "Hello " ++ name
-        }
-    };
-````
+**Javascript**
+155 chars
+```
+greetByName('Jack')
 
-**contextual proposed: 45 chars**
+function greetByName(sName) {
+    if (!sName) {
+        console.log ('Hi');
+        }
+    else {
+        console.log ('Hello, ' + sName);
+        };
+    };
+```
+
+**contextual proposed: 47 chars**
 ````
+greetByName'Jack'
+
 greetByName
     Say 'Hello ' sName
     Say 'Hi'    
