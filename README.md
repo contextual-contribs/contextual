@@ -7,6 +7,8 @@ This project is bold enough to propose coding practice which some people might f
 
 
 # example
+Which one do YOU find easier to read? Be honest. 
+
 **Javascript:** 155 chars
 ```
 greetByName('Jack')
