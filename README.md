@@ -18,12 +18,13 @@ let greetByName = (possiblyNullName) => {
     };
 ````
 
-**contextual: 45 chars
+**contextual proposed: 45 chars**
 ````
 greetByName
     Say 'Hello ' sName
     Say 'Hi'    
 ````
+Note: The contextual version has strong typing and locally-scoped variables. 
 
 
 # philosophy
