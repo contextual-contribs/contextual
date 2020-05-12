@@ -7,7 +7,8 @@ This project is bold enough to propose coding practice which some people might f
 
 
 # example
-**Javascript**
+**Javascript: 189 chars**
+````
 let greetByName = (possiblyNullName) => {
     let optionName = Js.Nullable.toOption(possiblyNullName);
     switch (optionName) {
@@ -15,12 +16,14 @@ let greetByName = (possiblyNullName) => {
         | Some(name) => "Hello " ++ name
         }
     };
-    
-**contextual: 45 chars
+````
 
+**contextual: 45 chars
+````
 greetByName
     Say 'Hello ' sName
     Say 'Hi'    
+````
 
 
 # philosophy
