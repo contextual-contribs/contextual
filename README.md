@@ -7,7 +7,7 @@ This project is bold enough to propose coding practice which some people might f
 
 
 # example
-**Javascript:** 155 chars
+**Javascript:** 174 chars
 ```
 greetByName('Jack')
 
