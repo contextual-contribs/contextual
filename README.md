@@ -50,6 +50,7 @@ The core philosophies of this meta-language are:
 - Exploit whitespace. Imply structure with whitespace. 
 - Eliminate the obvious. Depend on context and implication. 
 - Eliminate redundancy. 
+- Eliminate variables whenever possible. 
 - Make the most common coding patterns part of the language, so the programmer doesn't have to spell them out every time. 
 - Enable programmer to customize language-keywords. 
 - Strongly-typed.
