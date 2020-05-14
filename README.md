@@ -52,7 +52,7 @@ The core philosophies of this meta-language are:
 - Use the sparsest means to eliminate contextual redundancy (preferably whitespace or single characters)
 - Eliminate redundancy. 
 - Eliminate variables whenever possible. 
-- Make the most common coding patterns part of the language, so the programmer doesn't have to spell them out every time. 
+- Favor the most common patterns. Use the most minimal syntax for common patterns, with optional syntax for uncommon patterns. Make the most common coding patterns part of the language, so the programmer doesn't have to spell them out every time. 
 - Enable programmer to customize language-keywords. 
 - Strongly-typed.
 
