@@ -1,7 +1,7 @@
 # warning
 If you love semicolons and lots of typing, you'll hate this language. 
 
-If you want to type as little as possible, write code that clean, understandable, and radically minimal, and to let the computer to figure what you mean, read on. 
+If you want to type as little as possible, write code that's clean, understandable, and radically minimal, and to let the computer to figure what you mean, read on. 
 
 # contextual
 What if you could invent a new programming language, designed purely to simplify your life as a programmer, without *any* of the constraints of existing languages? 
