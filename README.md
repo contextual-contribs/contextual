@@ -8,7 +8,7 @@ What if you could invent a new programming language, designed purely to simplify
 
 This is a proposal for a new programming language, or meta-language, designed for radical brevity plus human-readability. Think CoffeScript or Clojure without all the cruft. 
 
-This project is bold enough to propose coding practice which some people might find scary. The radical goals of this project will not be comfortable for everyone, and we're OK with that. We're not trying to please everyone. We're trying to please programmers who are tired of having to over-explain themselves to the computer. 
+This project is bold enough to propose coding practice which some people might find scary. The goals of this project will not be comfortable for everyone, and we're OK with that. We're not trying to please everyone. We're trying to please programmers who are tired of having to over-explain themselves to computers. 
 
 # why javascript?
 contextual is planned a a javascript transpiler. Why javascript? Because we hate javascript, but it's ubiquitous. We're tired of the timid evolution of javascript. 
@@ -88,6 +88,6 @@ Current phase is **brainstorming phase.** The only activity right now is for the
 - Beginners won't understand this obscure syntax. 
     - So what? Why must a language be designed to be understood by people who haven't yet learned it. We believe this language will be much easier to learn than full-blown javascript. Not easier by virtue of resembling every other language. Not easier by spelling everything out in excrutiating detail. Not easier by reading like English. Easier because it's radically simplified. 
 - It's not natural.
-    - Yep. It's a *programming* language. Not a children's storybook. 
+    - Yep. It's a *programming* language. Not a human-language children's storybook. 
 - Beginners will get confused without semicolons. 
     - Again with the beginners. The language shall have non-ambiguous syntax and semantics. But, yes, beginners will need to *learn* it. Sorry, not sorry. Once they learn it, it won't be confusing anymore! 
