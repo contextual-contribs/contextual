@@ -86,8 +86,8 @@ Current phase is **brainstorming phase.** The only activity right now is for the
 
 # rebuttals
 - Beginners won't understand this obscure syntax. 
--- So what? Why must a language be designed to be understood by people who haven't yet learned it. We believe this language will be much easier to learn than full-blown javascript. Not easier by virtue of resembling every other language. Not easier by spelling everything out in excrutiating detail. Not easier by reading like English. Easier because it's radically simplified. 
+    - So what? Why must a language be designed to be understood by people who haven't yet learned it. We believe this language will be much easier to learn than full-blown javascript. Not easier by virtue of resembling every other language. Not easier by spelling everything out in excrutiating detail. Not easier by reading like English. Easier because it's radically simplified. 
 - It's not natural.
--- Yep. It's a *programming* language. Not a children's storybook. 
+    - Yep. It's a *programming* language. Not a children's storybook. 
 - Beginners will get confused without semicolons. 
--- Again with beginners. The language shall have non-ambiguous syntax and semantics. But, yes, beginners will need to *learn* it. Sorry, not sorry. Once they learn it, it won't be confusing anymore! 
+    - Again with the beginners. The language shall have non-ambiguous syntax and semantics. But, yes, beginners will need to *learn* it. Sorry, not sorry. Once they learn it, it won't be confusing anymore! 
