@@ -52,7 +52,6 @@ The contextual version has strong typing and locally-scoped variables.
 The core philosophies of this meta-language are:
 - Eliminate "machinery" in code. That is, most (all?) code today is packed with instructions to the parser[1], which aren't necessarily useful to the programmer, and often reduce readability. For example, punctuation. 
 - Make the parser smarter. Exploit parser-intelligence to radically reduce programmer effort. 
-- Imply structure with whitespace. 
 - Eliminate the obvious. Depend on context and implication. Enable the parser to make assumptions based on context. 
 - Use the sparsest means to eliminate contextual redundancy (preferably whitespace or single characters)
 - Eliminate redundancy. 
@@ -62,6 +61,14 @@ The core philosophies of this meta-language are:
 - Strongly-typed.
 
 [1]: (Using the word "parser" to refer to IDE, linters, parsers, transpilers, and compilers. Anything that interprets the code.)
+
+
+# design
+- Use symbols in place of verbose coding structures. 
+- Use defaults to eliminate typing of the obvious. 
+- Imply structure with whitespace and positioning. 
+- Imply parameters and variables. 
+- Strongly type variables by usage. 
 
 
 # goals
