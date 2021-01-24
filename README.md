@@ -10,6 +10,11 @@ This is a proposal for a new programming language, or meta-language, designed fo
 
 This project is bold enough to propose coding practice which some people might find scary. The radical goals of this project will not be comfortable for everyone, and we're OK with that. We're not trying to please everyone. We're trying to please programmers who are tired of having to over-explain themselves to the computer. 
 
+# why javascript?
+contextual is planned a a javascript transpiler. Why javascript? Because we hate javascript, but it's ubiquitous. We're tired of the timid evolution of javascript. 
+
+We hope contextual.js will inspire other radically-sparse languages. 
+
 
 # example
 Which one do YOU find easier to read? Be honest. 
